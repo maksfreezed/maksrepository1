@@ -4,11 +4,12 @@ using namespace std;
 
 int main()
 {
-	cout << "git hello" << endl;
+	cout << "fu" << endl;
 	cout << endl;
 	cout << "maks";
 	cout << "";
 	cout << " for branch " << endl;
 	cout << " for branch 2 2 2 " << endl;
+	cout << "delete";
 	return 0;
 }
