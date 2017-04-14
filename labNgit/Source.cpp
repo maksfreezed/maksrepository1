@@ -10,7 +10,7 @@ int main()
 	cout << "";
 
 	cout << " for branch 2 2 2 " << endl;
-	cout << "delete";
-	cout << "change";
+
+	cout << "changesdfs";
 	return 0;
 }
