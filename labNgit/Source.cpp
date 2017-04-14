@@ -8,8 +8,9 @@ int main()
 	cout << endl;
 	cout << "maks";
 	cout << "";
-	cout << " for branch " << endl;
+
 	cout << " for branch 2 2 2 " << endl;
 	cout << "delete";
+	cout << "change";
 	return 0;
 }
