@@ -8,5 +8,6 @@ int main()
 	system("pause");
 	cout << endl;
 	cout << "maks";
+	cout << "";
 	return 0;
 }
